@@ -7,4 +7,4 @@ Dans cet article, vous allez apprendre à utiliser la validation de modèle de d
 - Configuration de FluentValidation
 - Création d'un Validator
 
-[Lire la suite ici](https://coffeecoding.fr/2022/11/13/lazycaching-avec-net/)
+[Lire la suite ici](https://coffeecoding.fr/2022/11/20/fluentvalidation-avec-net/)
